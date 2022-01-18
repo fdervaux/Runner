@@ -9,6 +9,9 @@ public class test : MonoBehaviour
     {
         // j'ajoute un super commentaire
         // sur plusieurs ligne
+
+        //Super moi aussi mon commentaire
+        //Il est vachement bien
     }
 
     // Update is called once per frame
